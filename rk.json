@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"straze.json#bridge"
+                 "value":"main.json#bridge"
                 }],
          "type":"tilelayer",
          "visible":true,
