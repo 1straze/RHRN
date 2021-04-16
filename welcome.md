@@ -1,5 +1,5 @@
 # HowTo play
-![Einladung Konferenz](https://www.ljrmv.de/ljrmv-wAssets/img/weblication/wThumbnails/rhrn-anmeldung-2902a329407e9ebg314fcf41344f5f0b.png)
+![Einladung Konferenz](RHRN2021.jpg)
 
 Dieses Tutorial soll einen kurzen Überblick und Empfehlungen für eine entspannte Konferenz-Erfahrung bieten.
 
