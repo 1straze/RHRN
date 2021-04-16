@@ -55,7 +55,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":90,
          "x":0,
          "y":0
@@ -1674,116 +1674,6 @@
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":10,
-         "firstgid":6010,
-         "image":"campfire.png",
-         "imageheight":64,
-         "imagewidth":320,
-         "margin":0,
-         "name":"fire",
-         "spacing":0,
-         "tilecount":20,
-         "tileheight":32,
-         "tiles":[
-                {
-                 "animation":[
-                        {
-                         "duration":201,
-                         "tileid":0
-                        }, 
-                        {
-                         "duration":201,
-                         "tileid":2
-                        }, 
-                        {
-                         "duration":201,
-                         "tileid":4
-                        }, 
-                        {
-                         "duration":201,
-                         "tileid":6
-                        }, 
-                        {
-                         "duration":201,
-                         "tileid":8
-                        }],
-                 "id":0
-                }, 
-                {
-                 "animation":[
-                        {
-                         "duration":201,
-                         "tileid":1
-                        }, 
-                        {
-                         "duration":201,
-                         "tileid":3
-                        }, 
-                        {
-                         "duration":201,
-                         "tileid":5
-                        }, 
-                        {
-                         "duration":201,
-                         "tileid":7
-                        }, 
-                        {
-                         "duration":201,
-                         "tileid":9
-                        }],
-                 "id":1
-                }, 
-                {
-                 "animation":[
-                        {
-                         "duration":201,
-                         "tileid":10
-                        }, 
-                        {
-                         "duration":201,
-                         "tileid":12
-                        }, 
-                        {
-                         "duration":201,
-                         "tileid":14
-                        }, 
-                        {
-                         "duration":201,
-                         "tileid":16
-                        }, 
-                        {
-                         "duration":201,
-                         "tileid":18
-                        }],
-                 "id":10
-                }, 
-                {
-                 "animation":[
-                        {
-                         "duration":201,
-                         "tileid":11
-                        }, 
-                        {
-                         "duration":201,
-                         "tileid":13
-                        }, 
-                        {
-                         "duration":201,
-                         "tileid":15
-                        }, 
-                        {
-                         "duration":201,
-                         "tileid":17
-                        }, 
-                        {
-                         "duration":201,
-                         "tileid":19
-                        }],
-                 "id":11
-                }],
          "tilewidth":32
         }],
  "tilewidth":32,
