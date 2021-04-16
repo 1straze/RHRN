@@ -1,5 +1,5 @@
 # Right here, right now!
-![Logo](RHRN2021.jpg)
+![Logo](RHRN2021_head.jpg)
 
 
 ## LJRMV -  Gegenwartskonferenz - Main Zoom Call
