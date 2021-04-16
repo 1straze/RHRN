@@ -10,4 +10,4 @@ Wir haben uns entschieden zu bleiben. In einer Region, in der die ohnehin schwac
 
 Dafür haben wir jetzt ein Haus. Und zwar ein großes.
 
-https://staze.de/
+[straze.de](https://straze.de)
