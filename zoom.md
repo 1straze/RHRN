@@ -1,8 +1,8 @@
 # Right here, right now!
-![Logo](ci_5.png)
+![Logo](RHRN2021.jpg)
 
 
-### LJRMV -  Gegenwartskonferenz - Main Zoom Call
+## LJRMV -  Gegenwartskonferenz - Main Zoom Call
 
 **[Zoom-Meeting beitreten](https://zoom.us/j/97350982570?pwd=MFdVWk9CV0VKUG53dHBmcEpsRkRDUT09)**
 
