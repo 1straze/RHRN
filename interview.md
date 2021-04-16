@@ -1,8 +1,8 @@
 # Right here, right now!
-![Logo](ci_5.png)
+![Logo](RHRN2021_head.jpg)
 
 
-### LJRMV -  Gegenwartskonferenz - Interview Space
+## LJRMV -  Gegenwartskonferenz - Interview Space
 
 **[Zoom-Meeting beitreten](https://us02web.zoom.us/j/86050192302?pwd=eHpYekhLVGZkc3VscjNIOHBDcjV3Zz09 )**
 
