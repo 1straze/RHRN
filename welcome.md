@@ -50,6 +50,10 @@ Falls Ihr das Feature nicht nutzen wollt, könnt Ihr es im Hub deaktivieren.
 ## Ich sehe keine Karte / 404 / schwarzer Bildschirm
 
 Bitte checkt Eure AddOns und Script-Blocker und gebt *.play.workadventu.re. Falls das nicht hilft, könnt Ihr einen Blick in die Dev-Tools Eures Browsers werfen und dort nach Fehlern schauen.
+
+### "Hilfe ich stecke fest"
+Keine Panik! Overlay Einlndungen haben obenr rechts einen X-Knopf um geschlossen zu werden. Solltet ihr einmal wirklich fest stecken könnt ihr mit F5 die Karte neu laden.
+
 ### Fehler melden
 
 Meldet euich gerne am Infopunkt. Sammelt vorher so viele Details wie möglich. Ein Link zur Karte, die ihr zu öffnen versucht habt, und welchen Browser ihr verwendet, ist ein guter Anfang!
