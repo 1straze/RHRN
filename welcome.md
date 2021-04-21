@@ -1,5 +1,5 @@
 # Workadventure benutzen
-![Einladung Konferenz](RHRN2021.jpg)
+![Einladung Konferenz](RHRN_map_comment_overview.png)
 
 Dieses Tutorial soll einen kurzen Überblick und Empfehlungen für eine entspannte Konferenz-Erfahrung bieten.
 
