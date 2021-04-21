@@ -2,14 +2,14 @@
 ![Logo](RHRN2021_head.jpg)
 
 
-## LJRMV -  Gegenwartskonferenz - Main Zoom Call
+## LJRMV -  Gegenwartskonferenz - Hauptraum
 
-**[Zoom-Meeting beitreten](https://zoom.us/j/97350982570?pwd=MFdVWk9CV0VKUG53dHBmcEpsRkRDUT09)**
+**[Zoom-Meeting beitreten](https://zoom.us/j/99118392825?pwd=NklTanpRNEtzVHJBYyt2RHpia3BRUT09)**
 
 
 Meeting-ID: | Kenncode:
 ------------ | -------------
-973 5098 2570 | 518268
+991 1839 2825 | 807658
 
 
 ![Logo](ci_6.png)
