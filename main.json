@@ -286,7 +286,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/1straze\/RHRN"
+                 "value":"https:\/\/1straze.github.io\/RHRN\/howto.html"
                 }],
          "type":"tilelayer",
          "visible":true,
