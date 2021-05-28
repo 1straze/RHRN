@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ljrmv\/vollversammlung\/vv2"
+                 "value":"\/@\/ljrmv\/rhrn\/gegenwartskonferenz2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -246,11 +246,11 @@
         {
          "columns":7,
          "firstgid":1508,
-         "image":"RHRN2021_banner.png",
+         "image":"vv_banner.png",
          "imageheight":64,
          "imagewidth":224,
          "margin":0,
-         "name":"banner",
+         "name":"vv",
          "spacing":0,
          "tilecount":14,
          "tileheight":32,

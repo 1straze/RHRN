@@ -1830,11 +1830,11 @@
         {
          "columns":7,
          "firstgid":6010,
-         "image":"RHRN2021_banner.png",
+         "image":"vv_banner.png",
          "imageheight":64,
          "imagewidth":224,
          "margin":0,
-         "name":"banner",
+         "name":"vv",
          "spacing":0,
          "tilecount":14,
          "tileheight":32,
