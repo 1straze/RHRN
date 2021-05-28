@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ljrmv\/rhrn\/gegenwartskonferenz2"
+                 "value":"\/@\/ljrmv\/vollversammlung\/vv2"
                 }],
          "type":"tilelayer",
          "visible":true,
